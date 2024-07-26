@@ -354,6 +354,18 @@ main {
   padding: 3px 12px;
   border-radius: 8px;
 }
+.website{
+  color: var(--white-1);
+  background: var(--onyx);
+  font-size: var(--fs-8);
+  font-weight: var(--fw-300);
+  width: max-content;
+  padding: 3px 12px;
+  border-radius: 8px;
+  margin-top:-20px;
+  margin-left: 50px;
+}
+
 
 .info_more-btn {
   position: absolute;
