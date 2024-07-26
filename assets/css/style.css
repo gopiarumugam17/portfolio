@@ -354,6 +354,17 @@ main {
   padding: 3px 12px;
   border-radius: 8px;
 }
+.info-content img{
+  height: 100px;
+  margin-top: -29px;
+  margin-left: 30px;
+  
+}
+@media screen and (max-width:1260px) {
+        .info-content img{display: none;}   
+} 
+  
+
 .website{
   color: var(--white-1);
   background: var(--onyx);
@@ -362,10 +373,13 @@ main {
   width: max-content;
   padding: 3px 12px;
   border-radius: 8px;
-  margin-top:-20px;
-  margin-left: 50px;
+  margin-top:-px;
+  margin-left: 63px;
 }
-
+.weblogo{
+  margin-left: -20px;
+  margin-top: 15px;
+}
 
 .info_more-btn {
   position: absolute;
